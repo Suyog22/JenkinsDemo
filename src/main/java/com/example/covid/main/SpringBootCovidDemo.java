@@ -8,6 +8,7 @@ public class SpringBootCovidDemo {
 
 	
 	public static void main(String[] args) {
+		System.out.println("Helloooooooooooooooooooooooo");
 		SpringApplication.run(SpringBootCovidDemo.class, args);
 	}
 
